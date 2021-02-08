@@ -1,0 +1,193 @@
+{
+    "data": [
+        {
+            "url": "Bayi",
+            "url_title": null,
+            "title": "Bayi",
+            "is_best_seller": false,
+            "base_price": "19.900",
+            "price": "14.900",
+            "user_count": 938,
+            "features": [
+                {
+                    "key": null,
+                    "value": "0.5X RESOURCE POWER"
+                },
+                {
+                    "key": "disk spaces",
+                    "value": "500 MB"
+                },
+                {
+                    "key": "bandwith",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "databases",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "domain" ,
+                    "value": 1
+                },
+                {
+                    "key": "backup",
+                    "value": "instant"
+                },
+                {
+                    "key": "SSL Gratis Selamanya",
+                    "value": "Unlimited"
+                }
+            ]
+        },
+        {
+            "url": "Pelajar",
+            "url_title": null,
+            "title": "Pelajar",
+            "is_best_seller": false,
+            "base_price": "46.900",
+            "price": "23.450",
+            "user_count": 4.168,
+            "features": [
+                {
+                    "key": null,
+                    "value": "1X RESOURCE POWER"
+                },
+                {
+                    "key": "disk spaces",
+                    "value": "500 MB"
+                },
+                {
+                    "key": "bandwith",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "POP3 Email",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "databases",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "Addon Domains" ,
+                    "value": "10"
+                },
+                {
+                    "key": "backup",
+                    "value": "instant"
+                },
+                {
+                    "key": "SSL Gratis Selamanya",
+                    "value": "Unlimited"
+                }
+            ]
+        },
+        {
+            "url": "Personal",
+            "url_title": null,
+            "title": "Personal",
+            "is_best_seller": true,
+            "base_price": "58.900",
+            "price": "38.900",
+            "user_count": 10.017,
+            "features": [
+                {
+                    "key": null,
+                    "value": "2X RESOURCE POWER"
+                },
+                {
+                    "key": "disk spaces",
+                    "value": "500 MB"
+                },
+                {
+                    "key": "bandwith",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "POP3 Email",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "databases",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "Addon Domains" ,
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "backup",
+                    "value": "instant"
+                },
+                {
+                    "key": "SSL Gratis Selamanya",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "Name Server",
+                    "value": "Private"
+                },
+                {
+                    "key": "Mail Protection",
+                    "value": "SpamAssasin"
+                }
+            ]
+        },
+        {
+            "url": "Bisnis",
+            "url_title": "Diskon 40%",
+            "title": "Bisnis",
+            "is_best_seller": false,
+            "base_price": "109.900",
+            "price": "65.900",
+            "user_count": 3.552,
+            "features": [
+                {
+                    "key": null,
+                    "value": "3X RESOURCE POWER"
+                },
+                {
+                    "key": "disk spaces",
+                    "value": "500 MB"
+                },
+                {
+                    "key": "bandwith",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "POP3 Email",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "databases",
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "Addon Domains" ,
+                    "value": "Unlimited"
+                },
+                {
+                    "key": "Backup & Restore",
+                    "value": "Magic Auto"
+                },
+                {
+                    "key": "Gratis Selamanya",
+                    "value": "Unlimited SSL"
+                },
+                {
+                    "key": "Name Server",
+                    "value": "Private"
+                },
+                {
+                    "key": "Layanan Support",
+                    "value": "Prioritas",
+                    "img" : "url"
+                },
+                {
+                    "key": "Pro Mail Protection",
+                    "value": "SpamExpert"
+                }
+            ]
+        }
+    ]
+}

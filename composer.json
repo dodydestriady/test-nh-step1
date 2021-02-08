@@ -1,0 +1,14 @@
+{
+    "name": "dodydes/landing_page",
+    "description": "test niaga hoster",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "dody destriady",
+            "email": "dodydestriady@gmail.com"
+        }
+    ]
+}
