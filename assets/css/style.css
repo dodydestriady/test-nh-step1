@@ -10,6 +10,11 @@ body {
     font-family: 'Montserrat';
 }
 
+.content-middle {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
 
 .navbar-light .navbar-nav .nav-link {
     color: var(--main-gray) !important;
@@ -286,7 +291,7 @@ footer .copyright {
     top: 40px;
     position: relative;
     background: white;
-    border: 1px solid #719ECE;  
+    border: 1px solid #ce7171;  
     width: 200px;
     height: 200px;
     border-radius: 3px;
@@ -318,4 +323,60 @@ footer .copyright {
     border-width: 20px;
     left: 50%;
     margin-left: -20px;
+}
+
+.box2 {
+    border: 1px solid #cccccc;
+    text-align: center;
+    font-weight: 400;
+    color: #cccccc;
+    position: relative;
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 4px;
+    padding: 6px;
+    top: -8px;
+  }
+
+  .sb11:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 5px solid transparent;
+    border-right: 5px solid #cccccc;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    left: -11px;
+    top: 30%;
+  }
+  
+  .sb11:after {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 5px solid transparent;
+    border-right: 5px solid #f7f7f7;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    left: -10px;
+    top: 30%;
+  }
+  
+
+.link-facebook {
+    color: #23599B;
+}
+
+.link-twitter {
+    color: #00AEF1;
+}
+
+.link-google {
+    color: #FC4A35;
+}
+
+.link-facebook:hover, .link-google:hover, .link-twitter:hover {
+    text-decoration: none;
 }
